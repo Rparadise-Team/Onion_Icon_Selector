@@ -1,0 +1,6 @@
+{
+"label":"Icon set Selector",
+"icon":"icon.png",
+"launch":"launch.sh",
+"description":"Change your emulator icon set"
+}
